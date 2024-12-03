@@ -73,6 +73,6 @@
 
 Информация для работы с графами на C++ была взята [отсюда](https://brestprog.by/topics/);
 
-Дополнительную информацию можно найти [по ссылке](https://www.google.com/);
+Дополнительную информацию можно найти [по ссылке](https://www.youtube.com/watch?v=dQw4w9WgXcQ);
 
 Код данной работы можно найти [здесь](https://github.com/w4nderwaffe/git_test-/blob/main/pioivisRAS.xcodeproj/project.pbxproj).
